@@ -1,8 +1,9 @@
-# livestreaming on WebRTC
+# Live Streaming On WebRTC
 
 WebRTC를 통한 라이브스트밍을 구현했다.
 
 ## 구조
+![image](https://github.com/kimhyun5u/Live-Streaming-On-WebRTC/assets/38347891/2b0e7298-d854-4da9-9a73-013b29dd10f9)
 
 ## 장점
 
